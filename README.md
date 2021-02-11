@@ -1,2 +1,2 @@
-# C-20
-Collision algorithm  
+# collisionAlgorithm
+Algorithm to detect collision between two objects
